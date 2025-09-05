@@ -1,5 +1,4 @@
 # CLI calculator
-
 # input taker:
 def take_input(prompt="Enter number: "):
     while True:
@@ -94,4 +93,5 @@ print("="*50)
              
     
     
+
     
